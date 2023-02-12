@@ -1,6 +1,6 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        if not moves: return true
+        if not moves: return True
         
         x = y = 0
 
